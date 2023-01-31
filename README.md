@@ -1,4 +1,4 @@
 # Olá, Mundo!
- primeiro repositório.
+ **primeiro repositório.**
 
-Repósitorio criado na aula de git e gitHub!
+*Repósitorio criado na aula de git e gitHub!*
